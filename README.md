@@ -18,6 +18,9 @@ Specular 반사, Ambient 조명, 난반사, 그림자와 같은 조명 효과를
 ## 실행결과 예시 이미지
 <img width="1919" alt="image" src="https://github.com/seongmik-s-team/miniRT/assets/44383895/1a89d2a0-3dd4-4a7b-9af4-c7c70fb269bc">
 
+<img width="1522" alt="image" src="https://github.com/user-attachments/assets/9f3f82b8-addb-49f5-9384-c63647ea1c94">
+
+
 ---
 
 ## 실행 방법
